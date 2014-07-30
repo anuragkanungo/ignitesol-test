@@ -1,0 +1,8 @@
+1. Install Python and Django
+2. clone the project
+3. Go to the direcorty rss
+4. Run $python manage.py runserver
+5. It will point to the address like 127.0.0.1:8000
+6. So open the address http://127.0.0.1:8000/input_form
+7. Submit the rss feed url, it will take to the webpage on which feeds are displayed
+
