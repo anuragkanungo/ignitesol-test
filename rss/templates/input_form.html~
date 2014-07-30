@@ -1,0 +1,11 @@
+<html>
+<head>
+    <title>RSS Feed URL</title>
+</head>
+<body>
+    <form action="/input_json/" method="get">
+        <textarea wrap="hard" style="height:20px;width:500px;" name="q"> </textarea></br>
+        <input type="submit" value="Submit URL">
+    </form>
+</body>
+</html>
